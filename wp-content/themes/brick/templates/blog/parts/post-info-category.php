@@ -1,0 +1,1 @@
+<div class="post_category"><?php esc_html_e('in ','brick'); ?><?php the_category(', '); ?></div>
